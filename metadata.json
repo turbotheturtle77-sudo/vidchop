@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor",
+  "description": "A professional-grade on-device video editor and timeline composition manager with smart AI script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
